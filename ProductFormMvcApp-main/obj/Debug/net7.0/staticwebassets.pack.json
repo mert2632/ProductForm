@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProductFormMvcApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProductFormMvcApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\01339e71-c7ce-441d-90e5-d31cdaf47e8a.jpg",
+      "PackagePath": "staticwebassets\\img\\01339e71-c7ce-441d-90e5-d31cdaf47e8a.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\064fc30d-a73b-4e67-8209-3be957bae812.jpg",
+      "PackagePath": "staticwebassets\\img\\064fc30d-a73b-4e67-8209-3be957bae812.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\0b64c0cf-52db-468a-80e8-92c5a4e3deaf.jpg",
+      "PackagePath": "staticwebassets\\img\\0b64c0cf-52db-468a-80e8-92c5a4e3deaf.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\3b5c59ed-e287-475b-b03c-643bab420786.jpg",
+      "PackagePath": "staticwebassets\\img\\3b5c59ed-e287-475b-b03c-643bab420786.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\62bdb1dc-97df-4d87-a642-f39076afc796.jpg",
+      "PackagePath": "staticwebassets\\img\\62bdb1dc-97df-4d87-a642-f39076afc796.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\6be9a4a5-3f38-4afb-b2cc-de1c2c8e59a7.jpeg",
+      "PackagePath": "staticwebassets\\img\\6be9a4a5-3f38-4afb-b2cc-de1c2c8e59a7.jpeg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\6dc720e7-5c20-4c47-bed0-16b9c814e7ba.jpg",
+      "PackagePath": "staticwebassets\\img\\6dc720e7-5c20-4c47-bed0-16b9c814e7ba.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\90992239-cb53-4c60-8f90-77e4047a6903.jpg",
+      "PackagePath": "staticwebassets\\img\\90992239-cb53-4c60-8f90-77e4047a6903.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\92074d22-dbdf-4eb0-a332-6b2856f7fdc2.jpg",
+      "PackagePath": "staticwebassets\\img\\92074d22-dbdf-4eb0-a332-6b2856f7fdc2.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\a372a4cc-17ba-4678-882e-e1e8ab7a7dc5.jpg",
+      "PackagePath": "staticwebassets\\img\\a372a4cc-17ba-4678-882e-e1e8ab7a7dc5.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\bfffb751-5c6f-408d-bfea-92ceb22b58d7.jpg",
+      "PackagePath": "staticwebassets\\img\\bfffb751-5c6f-408d-bfea-92ceb22b58d7.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\c4b49c7b-af13-478b-a0c3-dfbed5cafd6c.jpg",
+      "PackagePath": "staticwebassets\\img\\c4b49c7b-af13-478b-a0c3-dfbed5cafd6c.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\e9eda60c-2852-4c4d-bc18-99f319676498.jpg",
+      "PackagePath": "staticwebassets\\img\\e9eda60c-2852-4c4d-bc18-99f319676498.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\f8abdc07-3987-45d3-ad6d-6449dfdf90a0.jpg",
+      "PackagePath": "staticwebassets\\img\\f8abdc07-3987-45d3-ad6d-6449dfdf90a0.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\img\\fdd1446f-060d-4d62-8f3d-471bec97385f.jpg",
+      "PackagePath": "staticwebassets\\img\\fdd1446f-060d-4d62-8f3d-471bec97385f.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\ProductFormMvcApp-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ProductFormMvcApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ProductFormMvcApp.props",
+      "PackagePath": "build\\ProductFormMvcApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductFormMvcApp.props",
+      "PackagePath": "buildMultiTargeting\\ProductFormMvcApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ProductFormMvcApp.props",
+      "PackagePath": "buildTransitive\\ProductFormMvcApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
